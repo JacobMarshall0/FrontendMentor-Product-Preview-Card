@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [On FrontendMentor](https://www.frontendmentor.io/solutions/responsive-product-card-design-using-flexbox-8b83KS_ohG)
+- Live Site URL: [Hosted on Vercel](https://frontend-mentor-product-preview-card-zeta.vercel.app/)
 
 ## My process
 
